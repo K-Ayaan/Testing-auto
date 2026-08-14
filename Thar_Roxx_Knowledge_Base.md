@@ -30,19 +30,18 @@
 
 ## 3. DIMENSIONS & CAPACITIES
 
-| Spec | Value |
-|---|---|
-| Length | 4428 mm |
-| Width | 1870 mm |
-| Height | 1923 mm |
-| Wheelbase | 2850 mm (highest in segment) |
-| Track Width (Front & Rear) | 1580 mm |
-| Approach Angle | 41.7° |
-| Departure Angle | 36.1° |
-| Ramp-over Angle | 23.9° |
-| Water Wading Depth | 650 mm |
-| Seating Capacity | 5 |
-| Fuel Tank Capacity | 57 L |
+Spec-Value
+Length-4428 mm
+Width-1870 mm
+Height-1923 mm
+Wheelbase-2850 mm (highest in segment)
+Track Width (Front & Rear)-1580 mm
+Approach Angle-41.7°
+Departure Angle-36.1°
+Ramp-over Angle-23.9°
+Water Wading Depth-650 mm
+Seating Capacity-5
+Fuel Tank Capacity-57 L
 
 ---
 
@@ -92,15 +91,7 @@
 
 Variants (low to high): **MX1, MX3, MX5, AX3L, AX5L, AX7L**
 
-### Powertrain availability by variant:
-| Variant | Petrol MT | Petrol AT | Diesel 2WD MT | Diesel 2WD AT | Diesel 4x4 MT | Diesel 4x4 AT |
-|---|---|---|---|---|---|---|
-| MX1 | Yes | No | Yes | No | No | No |
-| MX3 | Yes | No | Yes | Yes | No | No |
-| MX5 | No | Yes | Yes | Yes | Yes | Yes |
-| AX3L | No | No | Yes | No | No | No |
-| AX5L | No | Yes | Yes | Yes | No | No |
-| AX7L | No | Yes | Yes | No | Yes | Yes |
+
 
 ### Wheels/Tyres by variant:
 - MX1, MX3, AX3L: R18 Steel wheels, 255/65 R18 tyres
@@ -214,18 +205,6 @@ Variants (low to high): **MX1, MX3, MX5, AX3L, AX5L, AX7L**
 - Obstacle View — an "x-ray"-style view over terrain for off-roading precision
 
 ---
-
-## 14. COLOUR OPTIONS
-
-| Colour Name | Roof Colour |
-|---|---|
-| Stealth Black* | Black (dual-tone only on AX7L/AX5L; body-colour roof on MX1/MX3/AX3L/MX5) |
-| Tango Red | Black |
-| Everest White | Black |
-| Deep Forest | Black |
-| Nebula Blue | Black |
-| Battleship Grey | Black |
-| Burnt Sienna | Black |
 
 ---
 
